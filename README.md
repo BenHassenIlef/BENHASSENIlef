@@ -1,6 +1,7 @@
 <!-- BANNER -->
 <div align="center">
 
+https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=32E0C4&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+survive+production.;DS+%26+AI+Engineer+%40+TEK-UP;Red+Hat+Certified+%7C+RHCSA;MLOps+%7C+DevOps+%7C+Scalable+Architectures)](https://git.io/typing-svg)
