@@ -2,10 +2,31 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="280"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=32E0C4&center=true&vCenter=true&width=700&height=70&lines=Ilef+BEN+HASSEN" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=14a085&center=true&vCenter=true&width=700&height=50&lines=DS+%26+AI+Engineer+%7C+DevOps+%7C+RHCSA;Building+systems+that+think%2C+scale+%26+survive+production.;MLOps+%7C+Scalable+Architectures+%7C+Linux" />
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Gmail-benhassenilef20%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benhassenilef20@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-BenHassenIlef-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BenHassenIlef)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilef_BEN_HASSEN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=BenHassenIlef&style=for-the-badge&color=14a085&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/BenHassenIlef?style=for-the-badge&color=32e0c4&logo=github&label=FOLLOWERS)](https://github.com/BenHassenIlef)
+
+<br/>
+
+![RHCSA](https://img.shields.io/badge/🛡️_RHCSA-Certified-14a085?style=for-the-badge)
+![TEK-UP](https://img.shields.io/badge/🎓_TEK--UP-DS_%26_AI-0d7377?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/⚡_MLOps-In_Progress-32e0c4?style=for-the-badge&labelColor=0d3b3b)
+
 </div>
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=32E0C4&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+survive+production.;DS+%26+AI+Engineer+%40+TEK-UP;Red+Hat+Certified+%7C+RHCSA;MLOps+%7C+DevOps+%7C+Scalable+Architectures)](https://git.io/typing-svg)
+
+---
 
 <!-- SOCIAL LINKS -->
 <br/>
