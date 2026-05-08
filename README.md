@@ -1,7 +1,7 @@
 <!-- BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7377,50:14a085,100:32e0c4&height=220&section=header&text=Ilef%20BEN%20HASSEN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=DS%20%26%20AI%20Engineer%20%7C%20DevOps%20%7C%20RHCSA%20Certified&descAlignY=58&descSize=18&descColor=d0fff8&animation=fadeIn" width="100%"/>
+[<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7377,50:14a085,100:32e0c4&height=220&section=header&text=Ilef%20BEN%20HASSEN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=DS%20%26%20AI%20Engineer%20%7C%20DevOps%20%7C%20RHCSA%20Certified&descAlignY=58&descSize=18&descColor=d0fff8&animation=fadeIn" width="100%"/>](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=32E0C4&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+survive+production.;DS+%26+AI+Engineer+%40+TEK-UP;Red+Hat+Certified+%7C+RHCSA;MLOps+%7C+DevOps+%7C+Scalable+Architectures)](https://git.io/typing-svg)
@@ -31,7 +31,7 @@
 ---
 
 <!-- TERMINAL SECTION -->
-<div align="center">
+<div align="left">
 
 ```bash
 ilef@github:~$ whoami --verbose
