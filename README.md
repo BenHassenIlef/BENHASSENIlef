@@ -1,192 +1,173 @@
-<!-- BANNER -->
+<!-- Header -->
 <div align="center">
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=32E0C4&center=true&vCenter=true&width=700&height=70&lines=Ilef+BEN+HASSEN" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=14a085&center=true&vCenter=true&width=700&height=50&lines=DS+%26+AI+Engineer+%7C+DevOps+%7C+RHCSA;Building+systems+that+think%2C+scale+%26+survive+production.;MLOps+%7C+Scalable+Architectures+%7C+Linux" />
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Gmail-benhassenilef20%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benhassenilef20@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-BenHassenIlef-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BenHassenIlef)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilef_BEN_HASSEN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=BenHassenIlef&style=for-the-badge&color=14a085&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/BenHassenIlef?style=for-the-badge&color=32e0c4&logo=github&label=FOLLOWERS)](https://github.com/BenHassenIlef)
-
-<br/>
-
-![RHCSA](https://img.shields.io/badge/🛡️_RHCSA-Certified-14a085?style=for-the-badge)
-![TEK-UP](https://img.shields.io/badge/🎓_TEK--UP-DS_%26_AI-0d7377?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/⚡_MLOps-In_Progress-32e0c4?style=for-the-badge&labelColor=0d3b3b)
-
+  <h1>Hi there, I'm Ilef BEN HASSEN 👋</h1>
+  <p><em>Data Science & AI Engineer · Full-Stack Developer · DevOps Enthusiast</em></p>
+  <a href="mailto:benhassenilef20@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-benhassenilef20%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ilef-ben-hassen">
+    <img src="https://img.shields.io/badge/LinkedIn-ilef--ben--hassen-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ilef-ben-hassen&style=flat&color=7F77DD"/>
 </div>
 
 ---
 
-<!-- SOCIAL LINKS -->
-<br/>
+<!-- About Me as Dockerfile -->
+```dockerfile
+# ─────────────────────────────────────────────
+#   Ilef BEN HASSEN — Profile
+# ─────────────────────────────────────────────
 
-[![Email](https://img.shields.io/badge/Gmail-benhassenilef20%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benhassenilef20@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-BenHassenIlef-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BenHassenIlef)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilef_BEN_HASSEN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+FROM tek-up-university:data-science-ai-engineering
 
-<br/>
+LABEL maintainer="benhassenilef20@gmail.com"
+LABEL role="Data Science & AI Engineer"
+LABEL location="Tunis, Tunisia"
+LABEL linkedin="ilef-ben-hassen"
 
-<!-- PROFILE STATS -->
-![Profile Views](https://komarev.com/ghpvc/?username=BenHassenIlef&style=for-the-badge&color=14a085&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/BenHassenIlef?style=for-the-badge&color=32e0c4&logo=github&label=FOLLOWERS)](https://github.com/BenHassenIlef)
+# ── Education ────────────────────────────────
+ENV UNIVERSITY="TEK-UP University"
+ENV DEGREE="Data Science & AI Engineering"
+ENV PREP_SCHOOL="ULT — MPCS (2022–2024)"
 
-<br/>
+# ── Core skills ──────────────────────────────
+RUN apt-get install -y \
+    python java javascript php sql \
+    tensorflow pytorch scikit-learn nlp \
+    react django symfony dotnet fastapi \
+    docker kubernetes linux aws azure cicd \
+    postgresql mysql power-bi tableau
 
-<!-- CERTIFICATIONS -->
-![RHCSA](https://img.shields.io/badge/🛡️_RHCSA-Certified-14a085?style=for-the-badge)
-![TEK-UP](https://img.shields.io/badge/🎓_TEK--UP-DS_%26_AI-0d7377?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/⚡_MLOps-In_Progress-32e0c4?style=for-the-badge&labelColor=0d3b3b)
+# ── Current focus ────────────────────────────
+RUN echo "🤖 Building AI-powered applications"   >> /focus.txt && \
+    echo "☁️  Cloud-native architectures"         >> /focus.txt && \
+    echo "📊 Data-driven decision making"         >> /focus.txt && \
+    echo "🚀 Scalable microservices"              >> /focus.txt
 
-</div>
+# ── Availability ─────────────────────────────
+ENV STATUS="Open to full-time & freelance opportunities"
 
----
+EXPOSE 443
 
-<!-- TERMINAL SECTION -->
-<div align="left">
-
-```bash
-ilef@github:~$ whoami --verbose
-{
-  "name"      : "Ilef BEN HASSEN",
-  "role"      : "DS & AI Engineer · DevOps · RHCSA",
-  "location"  : "Tunis, Tunisia 🌍",
-  "university": "TEK-UP · DS & AI",
-  "status"    : "open_to_opportunities"
-}
-
-ilef@github:~$ cat mission.txt
-  "I don't just build models — I build systems that think,
-   scale, and survive production."
-
-ilef@github:~$ ls ./stack/
-  AI/ML          DevOps         Languages      Web
-  Python         Docker         Java           Django
-  scikit-learn   Kubernetes     JavaScript     Symfony
-  SQL            AWS · Azure    C              .NET
-  NLP            Linux          PHP            FastAPI
-
-ilef@github:~$ git log --oneline --projects
-  a1f3c2e  TUNISCO       — geospatial tourism platform (Tunisia)
-  b9e2d1a  Mars Chatbot  — NLP conversational AI
-  c4f7b3d  Progress      — B2B opportunity tracking system
-  d2a1e9f  Wizard World  — full-stack multimedia platform
-           (+ private repos available on request)
-
-ilef@github:~$ ping benhassenilef20@gmail.com
-  PONG — inbox is open. let's build something. █
+CMD ["deliver", "clean, impactful & scalable solutions ✨"]
 ```
 
+---
+
+## 💻 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**AI & Machine Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Web & Frameworks**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+**Data & Analytics**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+## 🏆 Certifications
+
+| Certification | Issuer | Date |
+|---|---|---|
+| Red Hat Certified System Administrator (RHCSA) | Red Hat | Jul 2025 |
+| PCAP™ — Certified Associate Python Programmer | Python Institute | Jan 2026 |
+| Red Hat Certified Specialist in Containers (EX188) | Red Hat | Apr 2026 |
+| AWS Certified AI Practitioner | Amazon Web Services | 2026 |
+| AWS Certified Data Engineer — Associate | Amazon Web Services | 2026 |
+| Microsoft PL-300: Power BI Data Analyst | Microsoft | 2026 |
+
+---
+
+## 💼 Experience
+
+**DevOps Intern — VMD** *(Aug – Sep 2025, Tunis)*
+> Docker · Kubernetes · Jenkins · GitLab CI/CD · Linux · Bash
+
+- Accelerated deployment pipelines and reduced release cycle time
+- Automated testing integration for stable, production-ready builds
+- Implemented CI/CD best practices for repeatable, consistent deployments
+
+**Full-Stack Developer Intern — Progress Engineering** *(Jul – Aug 2025, Ariana)*
+> Symfony · PHP · MySQL · JavaScript · Git
+
+- Built backend & frontend modules for business opportunity tracking
+- Implemented authentication, user management, and advanced data filtering
+- Delivered full technical documentation and functional testing
+
+---
+
+## 🌍 Community & Leadership
+
+| Organization | Role | Period |
+|---|---|---|
+| IEEE TEK-UP | Member | 2025 – Present |
+| Securinets Tekup | Member | 2024 – Present |
+| IEEE Education Society | Member | 2024 – Present |
+| Tunisian Red Crescent | Volunteer | 2022 – 2024 |
+| Tunisian Scouts | Scout | 2012 – 2022 |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ilef-ben-hassen&show_icons=true&theme=tokyonight&hide_border=true"/>
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilef-ben-hassen&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilef-ben-hassen&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🖥️ Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🤖 AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🌐 Web Development & Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### ☁️ DevOps & Cloud
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### 📊 Data Analytics & Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🛠️ Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
 <div align="center">
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🏖️ **TUNISCO** | Premium tourism platform with geospatial mapping of Tunisian establishments | Django · PostgreSQL · Maps API |
-| 🤖 **Mars Chatbot** | Conversational AI using NLP for context-aware user interactions | Python · NLP · Deep Learning |
-| 📊 **Progress Opportunities** | B2B opportunity tracking system for Progress Engineering | Symfony · MySQL · REST API |
-| 🧙 **Wizard World** | Full-stack multimedia platform with auth & dynamic CMS | Django · React · Docker |
-| 💀 **Hangman Evolution** | Logic-based game focused on algorithmic efficiency & clean UI/UX | Python · Algorithmic Design |
-
-</div>
-
-> 🔒 Many repositories are private to protect proprietary logic. **Walkthroughs and access available on request for recruiters and collaborators.**
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BenHassenIlef&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=32e0c4&icon_color=14a085&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenHassenIlef&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=32e0c4&text_color=c9d1d9" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BenHassenIlef&theme=algolia&hide_border=true&background=0d1117&ring=32e0c4&fire=14a085&currStreakLabel=32e0c4" width="60%"/>
-
-</div>
-
----
-
-<!-- FOOTER -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:32e0c4,100:0d7377&height=100&section=footer" width="100%"/>
-
+  <p>
+    ✅ Open to full-time opportunities &nbsp;|&nbsp;
+    ✅ Available for freelance projects &nbsp;|&nbsp;
+    ✅ Interested in collaborations
+  </p>
+  <p><strong>📫 benhassenilef20@gmail.com</strong></p>
+  <p><em>"Delivering clean, impactful & scalable solutions ✨"</em></p>
 </div>
