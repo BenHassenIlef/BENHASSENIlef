@@ -123,12 +123,7 @@ CMD ["deliver", "clean, impactful & scalable solutions ✨"]
 
 ## 💼 Experience
 
-**DevOps Intern — VMD** *(Aug – Sep 2025, Tunis)*
-> Docker · Kubernetes · Jenkins · GitLab CI/CD · Linux · Bash
 
-- Accelerated deployment pipelines and reduced release cycle time
-- Automated testing integration for stable, production-ready builds
-- Implemented CI/CD best practices for repeatable, consistent deployments
 
 **Full-Stack Developer Intern — Progress Engineering** *(Jul – Aug 2025, Ariana)*
 > Symfony · PHP · MySQL · JavaScript · Git
@@ -147,23 +142,9 @@ CMD ["deliver", "clean, impactful & scalable solutions ✨"]
 | Securinets Tekup | Member | 2024 – Present |
 | IEEE Education Society | Member | 2024 – Present |
 | Tunisian Red Crescent | Volunteer | 2022 – 2024 |
-| Tunisian Scouts | Scout | 2012 – 2022 |
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ilef-ben-hassen&show_icons=true&theme=tokyonight&hide_border=true"/>
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilef-ben-hassen&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilef-ben-hassen&theme=tokyonight&hide_border=true"/>
-</div>
-
----
 
 <div align="center">
   <p>
