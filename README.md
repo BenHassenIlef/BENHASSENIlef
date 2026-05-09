@@ -1,7 +1,10 @@
 <!-- Header -->
 <div align="center">
-  <h1>Hi there, I'm Ilef BEN HASSEN 👋</h1>
-  <p><em>Data Science & AI Engineer · Full-Stack Developer · DevOps Enthusiast</em></p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=32E0C4&center=true&vCenter=true&width=700&height=70&lines=Hi+there%2C+I'm+Ilef+BEN+HASSEN+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+</div>  <p><em>Data Science & AI Engineer · Full-Stack Developer · DevOps Enthusiast</em></p>
   <a href="mailto:benhassenilef20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-benhassenilef20%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
